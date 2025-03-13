@@ -14,7 +14,7 @@ All datasets used in this analysis were obtained from [Kaggle’s Formula 1 data
 ## Usage
 This project is a valuable resource for data science enthusiasts interested in real-world sports data analysis, motorsport fans looking for data-driven insights into F1 history, and researchers studying long-term performance trends in competitive racing.
 
-##Why F1? 
+## Why F1? 
 My passion for Formula 1 started after watching the Netflix series Drive to Survive, which gave me a behind-the-scenes look at how much effort goes into every race. It highlighted the teamwork, strategy, and sheer dedication required for success beyond just the drivers on the track. What truly stood out to me was how victories are not just about speed but also precision, coordination, and relentless determination from every member of an F1 team.
 
 Beyond that, my love for go-karting played a huge role in developing my interest in motorsports. The adrenaline rush of racing on a track made me appreciate the skill, reflexes, and strategy involved in competitive racing. Over time, this fascination evolved into a commitment to following F1 races every weekend, diving deep into race analytics, and eventually leading me to work on this data-driven exploration of Formula 1 history.
