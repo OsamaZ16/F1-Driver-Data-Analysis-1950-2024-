@@ -1,4 +1,4 @@
-# F1-Driver-Data-Analysis-1950-2024-
+# F1-Driver-Data-Analysis-1950-2024
 This analysis is built on multiple interconnected datasets, including drivers, races, race results, driver standings, and constructors. The drivers dataset contains biographical details, while the races dataset provides information about each race’s location and date. The race results dataset includes key performance metrics such as finishing positions, lap times, and points earned. The driver standings dataset tracks historical championship rankings, and the constructors dataset gives insights into the teams that participated in F1. By merging and analyzing these datasets, this project uncovers meaningful patterns in F1 history.
 
 ## Key analyses include
